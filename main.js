@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         AeroChrono — GeoFS Flight Timer Console
 // @namespace    https://github.com/zssszscnplane/GeoFS-Cabin-Sounds-addon
-// @version      2.1.0
+// @version      1.0.0
 // @description  GeoFS 飞行计时器：必须输入起降机场才能开始，带控制台、暂停/继续/重置、拖拽、localStorage 记忆，以及 .json 导入/导出。
 // @author       zssszscnplane
 // @match        https://www.geo-fs.com/*
